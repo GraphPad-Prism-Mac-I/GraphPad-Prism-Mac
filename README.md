@@ -59,7 +59,7 @@ The <a href="#graphPadPrism">graduate student research workflow</a> benefits fro
 ---
 
 <p align="center">
-  <img src="https://oceanofdmg.com/wp-content/uploads/2019/09/GraphPad-Prism-8-for-Mac-Direct-Mac-Direct-Link-Download-OceanofDMG.com_.jpg" alt="GraphPad Prism screenshot 2"/>
+  <img src="https://oceanofdmg.com/wp-content/uploads/2023/02/GraphPad-Prism-2023-for-Mac-Offline-Installer-Download.jpg" alt="GraphPad Prism screenshot 2"/>
 </p>
 
 ## 🗺️ Where It's Useful & Additional Information
